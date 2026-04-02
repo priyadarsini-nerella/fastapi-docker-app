@@ -27,8 +27,8 @@ Local Setup
 Clone the repository:
 
 bash
-git clone https://github.com/priyadarsini-nerella/california-housing-fastapi.git
-cd california-housing-fastapi
+git clone https://github.com/priyadarsini-nerella/fastapi-docker-app.git
+cd fastapi-docker-app
 Install dependencies:
 
 bash
