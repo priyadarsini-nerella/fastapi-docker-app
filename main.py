@@ -1,5 +1,5 @@
 # app.py
-from fastapi import FastAPI
+from fastapi import FastAPI, Body
 import pickle
 import joblib
 
